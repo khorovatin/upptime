@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4713,
-    "timeDay": 884,
-    "timeWeek": 4713,
-    "timeMonth": 4713,
-    "timeYear": 4713,
+    "time": 4055,
+    "timeDay": 764,
+    "timeWeek": 4055,
+    "timeMonth": 4055,
+    "timeYear": 4055,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 87,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 134,
+    "timeDay": 84,
+    "timeWeek": 134,
+    "timeMonth": 134,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 89,
-    "timeWeek": 145,
-    "timeMonth": 145,
-    "timeYear": 145,
+    "time": 137,
+    "timeDay": 97,
+    "timeWeek": 137,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/alwayscare.ca",
     "slug": "always-care-consulting",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
-    "time": 275,
-    "timeDay": 63,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275,
-    "dailyMinutesDown": {
-      "2021-07-17": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 242,
+    "timeDay": 60,
+    "timeWeek": 242,
+    "timeMonth": 242,
+    "timeYear": 242,
+    "dailyMinutesDown": {}
   }
 ]
