@@ -58,9 +58,9 @@
     "url": "https://alwayscare.ca",
     "icon": "https://favicons.githubusercontent.com/alwayscare.ca",
     "slug": "always-care-consulting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -70,6 +70,7 @@
     "timeMonth": 208,
     "timeYear": 397,
     "dailyMinutesDown": {
+      "2021-09-04": 0,
       "2021-08-18": 21
     }
   }
