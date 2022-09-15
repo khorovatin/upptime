@@ -40,19 +40,19 @@
     "url": "https://ken.horovatin.net",
     "icon": "https://favicons.githubusercontent.com/ken.horovatin.net",
     "slug": "personal-webpage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 178,
+    "timeDay": 165,
     "timeWeek": 149,
     "timeMonth": 172,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 15
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://www.samuelhorovatin.com",
     "icon": "https://favicons.githubusercontent.com/www.samuelhorovatin.com",
     "slug": "sam-s-personal-webpage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 252,
-    "timeWeek": 170,
-    "timeMonth": 300,
+    "timeDay": 231,
+    "timeWeek": 175,
+    "timeMonth": 297,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 15
     }
   },
   {
