@@ -40,9 +40,9 @@
     "url": "https://ken.horovatin.net",
     "icon": "https://favicons.githubusercontent.com/ken.horovatin.net",
     "slug": "personal-webpage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +51,18 @@
     "timeWeek": 149,
     "timeMonth": 172,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Sam's Personal Webpage",
     "url": "https://www.samuelhorovatin.com",
     "icon": "https://favicons.githubusercontent.com/www.samuelhorovatin.com",
     "slug": "sam-s-personal-webpage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 170,
     "timeMonth": 300,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Always Care Consulting",
@@ -77,7 +81,7 @@
     "icon": "https://favicons.githubusercontent.com/alwayscare.ca",
     "slug": "always-care-consulting",
     "status": "up",
-    "uptime": "92.25%",
+    "uptime": "92.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
