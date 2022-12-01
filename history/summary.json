@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.horovatin.com.ico",
     "slug": "horovatin-consulting-ltd",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 351,
-    "timeDay": 125,
-    "timeWeek": 198,
-    "timeMonth": 245,
-    "timeYear": 375,
+    "time": 352,
+    "timeDay": 368,
+    "timeWeek": 214,
+    "timeMonth": 243,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2022-10-19": 53,
       "2022-10-07": 69,
@@ -43,9 +43,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 85,
-    "timeWeek": 113,
-    "timeMonth": 140,
+    "timeDay": 207,
+    "timeWeek": 121,
+    "timeMonth": 142,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2022-09-15": 15
@@ -63,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 120,
-    "timeWeek": 120,
-    "timeMonth": 152,
+    "timeDay": 260,
+    "timeWeek": 136,
+    "timeMonth": 153,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2022-09-15": 15
@@ -77,16 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/alwayscare.ca.ico",
     "slug": "always-care-consulting",
     "status": "up",
-    "uptime": "93.42%",
+    "uptime": "93.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.07%",
-    "time": 405,
-    "timeDay": 36,
-    "timeWeek": 133,
-    "timeMonth": 457,
-    "timeYear": 437,
+    "uptimeYear": "92.34%",
+    "time": 406,
+    "timeDay": 799,
+    "timeWeek": 193,
+    "timeMonth": 467,
+    "timeYear": 438,
     "dailyMinutesDown": {
       "2022-09-30": 30,
       "2022-09-07": 29,
@@ -119,8 +119,7 @@
       "2021-12-05": 1440,
       "2021-12-04": 1440,
       "2021-12-03": 1440,
-      "2021-12-02": 1440,
-      "2021-12-01": 1440
+      "2021-12-02": 1440
     }
   }
 ]
