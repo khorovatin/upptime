@@ -59,9 +59,9 @@
     "slug": "sam-s-personal-webpage",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
     "timeDay": 160,
@@ -69,7 +69,6 @@
     "timeMonth": 162,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2023-01-19": 7,
       "2022-09-15": 15
     }
   },
