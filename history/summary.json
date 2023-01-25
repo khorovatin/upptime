@@ -57,9 +57,9 @@
     "url": "https://www.samuelhorovatin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.samuelhorovatin.com.ico",
     "slug": "sam-s-personal-webpage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +69,7 @@
     "timeMonth": 167,
     "timeYear": 201,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-09-15": 15
     }
   },
@@ -78,7 +79,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/alwayscare.ca.ico",
     "slug": "always-care-consulting",
     "status": "up",
-    "uptime": "94.07%",
+    "uptime": "94.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
