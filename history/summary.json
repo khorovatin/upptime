@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 394,
-    "timeDay": 168,
-    "timeWeek": 198,
-    "timeMonth": 245,
-    "timeYear": 362,
+    "timeDay": 313,
+    "timeWeek": 204,
+    "timeMonth": 232,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2022-12-15": 17,
       "2022-12-13": 19,
@@ -23,8 +23,7 @@
       "2022-09-11": 18,
       "2022-08-10": 32,
       "2022-07-25": 50,
-      "2022-07-18": 25,
-      "2022-05-20": 25
+      "2022-07-18": 25
     }
   },
   {
@@ -39,9 +38,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 168,
-    "timeWeek": 169,
-    "timeMonth": 156,
+    "timeDay": 166,
+    "timeWeek": 154,
+    "timeMonth": 155,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2022-09-15": 15
@@ -59,9 +58,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 194,
-    "timeDay": 192,
-    "timeWeek": 169,
-    "timeMonth": 167,
+    "timeDay": 212,
+    "timeWeek": 168,
+    "timeMonth": 168,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2023-01-25": 42,
@@ -74,16 +73,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/alwayscare.ca.ico",
     "slug": "always-care-consulting",
     "status": "up",
-    "uptime": "95.07%",
+    "uptime": "95.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 411,
-    "timeDay": 522,
-    "timeWeek": 427,
-    "timeMonth": 403,
-    "timeYear": 359,
+    "timeDay": 694,
+    "timeWeek": 457,
+    "timeMonth": 410,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2023-04-10": 28,
       "2023-01-31": 15,
