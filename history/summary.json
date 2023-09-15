@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 340,
-    "timeDay": 133,
-    "timeWeek": 170,
-    "timeMonth": 269,
+    "timeDay": 264,
+    "timeWeek": 193,
+    "timeMonth": 260,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2023-07-26": 17,
@@ -35,14 +35,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 104,
-    "timeWeek": 129,
-    "timeMonth": 182,
+    "time": 173,
+    "timeDay": 249,
+    "timeWeek": 152,
+    "timeMonth": 187,
     "timeYear": 175,
-    "dailyMinutesDown": {
-      "2022-09-15": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sam's Personal Webpage",
@@ -55,14 +53,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 184,
-    "timeDay": 76,
-    "timeWeek": 152,
-    "timeMonth": 156,
+    "time": 185,
+    "timeDay": 285,
+    "timeWeek": 178,
+    "timeMonth": 162,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2023-01-25": 42,
-      "2022-09-15": 15
+      "2023-01-25": 42
     }
   },
   {
@@ -76,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 359,
-    "timeDay": 85,
-    "timeWeek": 215,
-    "timeMonth": 273,
-    "timeYear": 367,
+    "time": 360,
+    "timeDay": 618,
+    "timeWeek": 282,
+    "timeMonth": 290,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2023-08-08": 72,
       "2023-07-06": 30,
