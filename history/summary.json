@@ -44,18 +44,20 @@
     "url": "https://www.samuelhorovatin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.samuelhorovatin.com.ico",
     "slug": "sam-s-personal-webpage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
+    "time": 170,
     "timeDay": 242,
     "timeWeek": 149,
     "timeMonth": 132,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-15": 0
+    }
   },
   {
     "name": "Always Care Consulting",
