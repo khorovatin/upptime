@@ -6,12 +6,12 @@
     "slug": "horovatin-consulting-ltd",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "98.43%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 234,
-    "timeDay": 516,
+    "timeDay": 221,
     "timeWeek": 361,
     "timeMonth": 282,
     "timeYear": 229,
@@ -43,9 +43,9 @@
     "url": "https://www.samuelhorovatin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.samuelhorovatin.com.ico",
     "slug": "sam-s-personal-webpage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 294,
     "timeMonth": 291,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-12": 0
+    }
   },
   {
     "name": "Always Care Consulting",
