@@ -14,7 +14,7 @@
     "timeDay": 547,
     "timeWeek": 324,
     "timeMonth": 275,
-    "timeYear": 225,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2025-03-01": 16,
       "2024-10-11": 23
@@ -65,9 +65,9 @@
     "url": "https://alwayscare.ca",
     "icon": "https://icons.duckduckgo.com/ip3/alwayscare.ca.ico",
     "slug": "always-care-consulting",
-    "status": "up",
+    "status": "down",
     "uptime": "97.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
@@ -77,6 +77,7 @@
     "timeMonth": 438,
     "timeYear": 483,
     "dailyMinutesDown": {
+      "2025-03-16": 0,
       "2025-03-02": 38,
       "2025-03-01": 21,
       "2025-02-17": 17,
