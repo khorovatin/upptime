@@ -4,7 +4,7 @@
     "url": "https://www.horovatin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.horovatin.com.ico",
     "slug": "horovatin-consulting-ltd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 373,
     "timeYear": 304,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-03-01": 16
     }
   },
