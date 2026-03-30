@@ -6,15 +6,15 @@
     "slug": "horovatin-consulting-ltd",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "90.99%",
+    "uptimeDay": "92.71%",
     "uptimeWeek": "94.51%",
     "uptimeMonth": "98.74%",
     "uptimeYear": "99.87%",
-    "time": 715,
-    "timeDay": 7424,
-    "timeWeek": 7270,
-    "timeMonth": 4455,
-    "timeYear": 947,
+    "time": 716,
+    "timeDay": 7126,
+    "timeWeek": 7295,
+    "timeMonth": 4389,
+    "timeYear": 949,
     "dailyMinutesDown": {
       "2026-03-29": 105,
       "2026-03-28": 275,
@@ -36,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 204,
-    "timeWeek": 232,
+    "timeDay": 226,
+    "timeWeek": 244,
     "timeMonth": 244,
-    "timeYear": 212,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 331,
-    "timeWeek": 226,
-    "timeMonth": 236,
+    "timeDay": 227,
+    "timeWeek": 225,
+    "timeMonth": 235,
     "timeYear": 230,
     "dailyMinutesDown": {}
   },
@@ -72,9 +72,9 @@
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.73%",
     "time": 479,
-    "timeDay": 465,
-    "timeWeek": 403,
-    "timeMonth": 593,
+    "timeDay": 421,
+    "timeWeek": 397,
+    "timeMonth": 588,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2026-03-26": 54,
@@ -101,8 +101,7 @@
       "2025-05-17": 116,
       "2025-05-16": 1,
       "2025-05-06": 26,
-      "2025-04-19": 17,
-      "2025-03-30": 16
+      "2025-04-19": 17
     }
   }
 ]
