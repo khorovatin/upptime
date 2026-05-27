@@ -13,8 +13,8 @@
     "time": 764,
     "timeDay": 516,
     "timeWeek": 534,
-    "timeMonth": 487,
-    "timeYear": 996,
+    "timeMonth": 468,
+    "timeYear": 999,
     "dailyMinutesDown": {
       "2025-10-20": 45,
       "2026-01-14": 24,
@@ -40,8 +40,8 @@
     "time": 208,
     "timeDay": 178,
     "timeWeek": 186,
-    "timeMonth": 194,
-    "timeYear": 212,
+    "timeMonth": 192,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -58,7 +58,7 @@
     "time": 229,
     "timeDay": 194,
     "timeWeek": 218,
-    "timeMonth": 219,
+    "timeMonth": 216,
     "timeYear": 228,
     "dailyMinutesDown": {}
   },
@@ -67,15 +67,15 @@
     "url": "https://alwayscare.ca",
     "icon": "https://icons.duckduckgo.com/ip3/alwayscare.ca.ico",
     "slug": "always-care-consulting",
-    "status": "down",
+    "status": "up",
     "uptime": "97.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "97.87%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "99.44%",
     "time": 474,
-    "timeDay": 424,
-    "timeWeek": 399,
+    "timeDay": 363,
+    "timeWeek": 387,
     "timeMonth": 400,
     "timeYear": 492,
     "dailyMinutesDown": {
@@ -111,7 +111,7 @@
       "2026-05-17": 276,
       "2026-05-18": 194,
       "2026-05-23": 171,
-      "2026-05-27": 0
+      "2026-05-27": 60
     }
   }
 ]
