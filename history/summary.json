@@ -70,12 +70,12 @@
     "status": "down",
     "uptime": "99.50%",
     "uptimeDay": "78.30%",
-    "uptimeWeek": "84.78%",
-    "uptimeMonth": "77.61%",
-    "uptimeYear": "97.52%",
+    "uptimeWeek": "84.35%",
+    "uptimeMonth": "77.48%",
+    "uptimeYear": "97.51%",
     "time": 472,
     "timeDay": 450,
-    "timeWeek": 431,
+    "timeWeek": 428,
     "timeMonth": 453,
     "timeYear": 493,
     "dailyMinutesDown": {
@@ -141,7 +141,7 @@
       "2026-06-27": 196,
       "2026-06-28": 61,
       "2026-06-29": 408,
-      "2026-06-30": 0
+      "2026-06-30": 54
     }
   }
 ]
