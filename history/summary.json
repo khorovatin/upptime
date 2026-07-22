@@ -13,7 +13,7 @@
     "time": 793,
     "timeDay": 479,
     "timeWeek": 574,
-    "timeMonth": 544,
+    "timeMonth": 546,
     "timeYear": 1016,
     "dailyMinutesDown": {
       "2025-10-20": 45,
@@ -69,10 +69,10 @@
     "slug": "always-care-consulting",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "88.42%",
-    "uptimeMonth": "81.53%",
-    "uptimeYear": "96.94%",
+    "uptimeDay": "91.89%",
+    "uptimeWeek": "87.26%",
+    "uptimeMonth": "81.30%",
+    "uptimeYear": "96.92%",
     "time": 466,
     "timeDay": 454,
     "timeWeek": 427,
@@ -129,7 +129,8 @@
       "2026-07-18": 229,
       "2026-07-19": 152,
       "2026-07-20": 246,
-      "2026-07-21": 0
+      "2026-07-22": 108,
+      "2026-07-21": 9
     }
   }
 ]
