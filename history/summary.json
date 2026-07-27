@@ -4,17 +4,17 @@
     "url": "https://www.horovatin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.horovatin.com.ico",
     "slug": "horovatin-consulting-ltd",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 796,
-    "timeDay": 650,
-    "timeWeek": 520,
-    "timeMonth": 543,
-    "timeYear": 1020,
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.83%",
+    "time": 797,
+    "timeDay": 503,
+    "timeWeek": 499,
+    "timeMonth": 536,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2025-10-20": 45,
       "2026-01-14": 24,
@@ -24,7 +24,7 @@
       "2026-03-29": 105,
       "2026-03-30": 61,
       "2026-05-10": 108,
-      "2026-07-27": 0
+      "2026-07-27": 66
     }
   },
   {
@@ -68,20 +68,19 @@
     "url": "https://alwayscare.ca",
     "icon": "https://icons.duckduckgo.com/ip3/alwayscare.ca.ico",
     "slug": "always-care-consulting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "92.03%",
-    "uptimeWeek": "86.07%",
-    "uptimeMonth": "82.44%",
+    "uptimeDay": "92.10%",
+    "uptimeWeek": "86.59%",
+    "uptimeMonth": "82.56%",
     "uptimeYear": "97.14%",
     "time": 468,
-    "timeDay": 376,
-    "timeWeek": 399,
-    "timeMonth": 415,
-    "timeYear": 485,
+    "timeDay": 355,
+    "timeWeek": 389,
+    "timeMonth": 414,
+    "timeYear": 484,
     "dailyMinutesDown": {
-      "2026-06-06": 70,
-      "2026-06-05": 19,
+      "2026-06-06": 69,
       "2026-06-07": 290,
       "2026-06-08": 557,
       "2026-06-09": 123,
@@ -126,7 +125,8 @@
       "2026-07-23": 249,
       "2026-07-24": 69,
       "2026-07-25": 254,
-      "2026-07-26": 338
+      "2026-07-26": 338,
+      "2026-07-27": 0
     }
   }
 ]
