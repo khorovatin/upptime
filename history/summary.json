@@ -68,16 +68,16 @@
     "url": "https://alwayscare.ca",
     "icon": "https://icons.duckduckgo.com/ip3/alwayscare.ca.ico",
     "slug": "always-care-consulting",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "91.18%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "91.11%",
     "uptimeYear": "97.16%",
     "time": 459,
-    "timeDay": 346,
-    "timeWeek": 455,
-    "timeMonth": 418,
+    "timeDay": 430,
+    "timeWeek": 461,
+    "timeMonth": 419,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2026-06-08": 557,
@@ -129,7 +129,7 @@
       "2026-07-29": 54,
       "2026-08-01": 60,
       "2026-08-04": 57,
-      "2026-08-08": 0
+      "2026-08-08": 28
     }
   }
 ]
